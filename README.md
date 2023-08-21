@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaryT25
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Psychology 
+- 👀 I’m interested in Web-dev, Embedded-systems, Blockchain, and (Pretty much everything)
+- 🌱 I earned my B.A. in Psychology from Cleveland State University
 - 📫 Reach me @ truegarythompson@gmail.com
 
 <!---
